@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.vite/
+server/sync-store.json
+.env
+.env.*
+.DS_Store
